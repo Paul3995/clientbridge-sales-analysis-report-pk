@@ -77,4 +77,4 @@ This report analyses ClientBridge's sales data to identify top-performing produc
 
 ## About
 
-**Author:** Paul Toluwase
+**Author:** [@Paul3995](https://github.com/Paul3995)
