@@ -1,80 +1,26 @@
-# ClientBridge Sales Analysis Report
+# ClientBridge Sales Analysis
 
-A data analysis project examining ClientBridge's sales performance across products, regions, cities, and customers, built with **Microsoft Excel**.
+This project analyses ClientBridge's sales data to understand product performance, regional trends, and customer behaviour — with the aim of identifying where the business should focus its energy.
 
-![ClientBridge Dashboard](Screenshot%202024-10-30%20at%2013.40.51.png)
+## What I Found
 
----
+The Canon Image Class 2200 Advanced Copier was the top-selling product by a good margin, while the HP LaserJet 3310 Corporate underperformed. Phones led the product category rankings; accessories were at the bottom. December was peak month for sales, February the quietest.
 
-## Project Overview
-
-This report analyses ClientBridge's sales data to identify top-performing products, regions, and customers while surfacing opportunities to grow performance in underperforming segments.
-
-**Areas covered:**
-- Product and product category performance
-- Regional and state-level sales breakdown
-- City-level performance comparison
-- Monthly sales trends
-- Top and bottom customer analysis
-
----
-
-## Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| Microsoft Excel | Data cleaning, analysis, and dashboard visualisation |
-
----
-
-## Key Findings
-
-| Metric | Best Performing | Lowest Performing |
-|--------|----------------|------------------|
-| Product | Canon Image Class 2200 Advanced Copier | HP LaserJet 3310 Corporate |
-| Product Category | Phones | Accessories |
-| Region | West | South |
-| State | California | Virginia |
-| City | New York | San Diego |
-| Month | December | February |
-| Customer | Sean Miller | Hunter Lopez |
-
----
+The West region outperformed all others, with California leading at state level. New York was the top city, San Diego the weakest. Sean Miller was the highest-spending customer, while Hunter Lopez had the lowest numbers.
 
 ## Recommendations
 
-**Product Strategy**
-- Continue promoting the Canon Image Class 2200 as the flagship product.
-- Reevaluate the HP LaserJet 3310's marketing and feature positioning to improve its appeal.
+The Canon copier's success should be leaned into with stronger promotion, while the HP LaserJet needs a strategic rethink — whether that's the marketing angle, the pricing, or both. Bundling accessories with phone purchases is an easy win that could move those numbers up.
 
-**Category Growth**
-- Bundle accessories with phone purchases and use influencer partnerships to boost accessory visibility and sales.
+The South region is underperforming and deserves a targeted strategy — not just copying what works in the West, but actually understanding what the market there needs. Similarly, Virginia needs engagement tailored to local conditions rather than a copy-paste of California's playbook.
 
-**Regional Expansion**
-- Replicate the West region's winning strategies in the South through targeted campaigns and local market research.
+February's dip is predictable enough to plan around. Incentives, early outreach, and targeted campaigns in that window could smooth out the seasonality.
 
-**State-Level Tactics**
-- Apply California's successful playbook to Virginia with tailored outreach and customer engagement initiatives.
-
-**City Performance**
-- Adapt New York's strategies to San Diego's local market preferences with increased community engagement and promotions.
-
-**Seasonal Planning**
-- Capitalise on December's peak with targeted campaigns; counteract February's slow period with special incentives and early outreach.
-
-**Customer Retention**
-- Reward Sean Miller with personalised offers to sustain loyalty; engage Hunter Lopez through tailored communication and feedback to identify barriers and drive improvement.
-
----
+For Hunter Lopez specifically, the priority is understanding what's getting in the way of more frequent purchases — personalised outreach and a feedback loop would be a good starting point.
 
 ## How to View
 
-1. Download `CLIENTBRIDGE.xlsx`
-2. Open with Microsoft Excel or Google Sheets
-3. Navigate the sheets to explore the full analysis
+Download `CLIENTBRIDGE.xlsx` and open it in Excel or Google Sheets.
 
 ---
-
-## About
-
 **Author:** [@Paul3995](https://github.com/Paul3995)
